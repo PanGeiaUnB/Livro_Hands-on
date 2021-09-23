@@ -14,3 +14,7 @@
 </div>
 
 > O grupo panGEIA é um grupo de estudos composto por estudantes da Universidade de Brasília (UNB) e Universidade federal de Goiás (UFG) que tem como interesse aprimorar e compartilhar seu conbhecimento na área de ciência de dados e inteligência artificial.
+
+## Contato dos membros
+
+- [e-mail](docs/contato_membros.md)

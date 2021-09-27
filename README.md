@@ -15,9 +15,21 @@
 
 > O grupo panGEIA é um grupo de estudos composto por estudantes da Universidade de Brasília (UNB) e Universidade federal de Goiás (UFG) que tem como interesse aprimorar e compartilhar seu conbhecimento na área de ciência de dados e inteligência artificial.
 
-### Como rodar o projeto
+## Como rodar o projeto
 
-#### 1. Clone o repositório
+### Localmente
+
+#### 1. Instale as ferramentas necessárias
+   Para rodar o notebook localmente, recomendamos fortemente o uso de um ambiente virtual como o <a href="https://docs.anaconda.com/anaconda/install/">Anaconda</a>,
+   ou <a href="https://docs.python.org/3/library/venv.html/">Venv</a> , disponíveis para diversos sistemas operacionais.
+             
+   Com o seu ambiente virtual ativado, rode o seguinte comando: 
+   
+    pip install -r requirements.txt
+   
+#### 2. Clone o repositório
     
     git clone https://github.com/PanGeiaUnB/Livro_Hands-on
     
+### Na Nuvem 
+ 

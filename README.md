@@ -17,6 +17,8 @@
 
 # Como rodar o projeto
 
-<div align="center">
+#### 1. Clone o repositório
+    ```bash
+    git clone https://github.com/PanGeiaUnB/Livro_Hands-on
     
-</div>
+    ```

@@ -13,8 +13,22 @@
     <img height="300" width="500" src="docs/assets/Pangeia_logo.png"></img>
 </div>
 
-> O grupo panGEIA é um grupo de estudos composto por estudantes da Universidade de Brasília (UNB) e Universidade federal de Goiás (UFG) que tem como interesse aprimorar e compartilhar seu conbhecimento na área de ciência de dados e inteligência artificial.
+<br>
 
-## Contato dos membros
+O grupo de estudos PanGEIA é composto por 9 integrantes que têm como objetivos aperfeiçoar e compartilhar o seu conhecimento nos campos de ciência de dados e inteligência artificial. O grupo surgiu com o propósito de reunir estudantes que participaram de um curso de Machine Learning e Deep Learning para dessa forma expandir o conhecimento na área além de proporcionar uma maior integração entre as pessoas. Além disso, o grupo tem como missão difundir o conhecimento sobre a área que tem se mostrado extremamente útil e poderosa em diversos campos.
 
-- [e-mail](docs/contato_membros.md)
+O grupo possui estudantes da Universidadede Brasília e da Universidade Federal deGoiás de diferentes cursos. A diversidadepresente no grupo é importante para aexpansão do conhecimento já que cada alunocompartilha com o grupo uma bagagemdiferente de conhecimento.
+
+## Nossos membros:
+
+| Nome                               | Curso                                             |
+| ---------------------------------- | ------------------------------------------------- |
+| Augusto Durães Camargo             | Engenharia de Software - UnB                      |
+| Breno de Almeida Beleza            | Engenharia Mecatrônica/Controle e Automação - UnB |
+| Eduardo Rodrigues de Farias        | Engenharia de Software - UnB                      |
+| Fernanda Vaz Borges Carneiro       | Engenharia Mecatrônica/Controle e Automação - UnB |
+| Gabriel Pimenta de Freitas Cardoso | Engenharia Elétrica - UnB                         |
+| Gustavo Viana Penido               | Engenharia de Redes de Comunicação - UnB          |
+| Henrique Augusto Gomes Togo        | Engenharia Elétrica - UnB                         |
+| Lallamand Canedo de Souza          | Engenharia Elétrica - UnB                         |
+| Pedro Vitor Menegat de Araujo      | Sistemas de Informação - UFG                      |

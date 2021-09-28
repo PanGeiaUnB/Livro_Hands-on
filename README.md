@@ -31,6 +31,7 @@
     
     git clone https://github.com/PanGeiaUnB/Livro_Hands-on
     
+   Com isso será possível rodar de maneira correta todos os seus notebooks.
 ### Na Nuvem 
    Também é possível rodar os notebooks no ambiente do google collab, acessando o drive do PanGEIA:
    

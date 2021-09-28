@@ -1,0 +1,8 @@
+matplotlib>=3.3.4
+mpl_toolkits>=NA
+numpy>=1.20.1
+scipy>=1.6.2
+torch>=1.9.0
+torchvision>=0.10.0
+PIL>=8.2.0
+gym>=0.18.3

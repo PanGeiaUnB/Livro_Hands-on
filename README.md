@@ -17,7 +17,7 @@
 
 O grupo de estudos PanGEIA é composto por 9 integrantes que têm como objetivos aperfeiçoar e compartilhar o seu conhecimento nos campos de ciência de dados e inteligência artificial. O grupo surgiu com o propósito de reunir estudantes que participaram de um curso de Machine Learning e Deep Learning para dessa forma expandir o conhecimento na área além de proporcionar uma maior integração entre as pessoas. Além disso, o grupo tem como missão difundir o conhecimento sobre a área que tem se mostrado extremamente útil e poderosa em diversos campos.
 
-O grupo possui estudantes da Universidadede Brasília e da Universidade Federal deGoiás de diferentes cursos. A diversidadepresente no grupo é importante para aexpansão do conhecimento já que cada alunocompartilha com o grupo uma bagagemdiferente de conhecimento.
+O grupo possui estudantes da Universidade de Brasília e da Universidade Federal de Goiás de diferentes cursos. A diversidade presente no grupo é importante para a expansão do conhecimento já que cada aluno compartilha com o grupo uma bagagem diferente de conhecimento.
 
 ## Nossos membros:
 

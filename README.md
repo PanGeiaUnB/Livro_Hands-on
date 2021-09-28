@@ -32,6 +32,10 @@
     git clone https://github.com/PanGeiaUnB/Livro_Hands-on
     
 ### Na Nuvem 
-   Também é possível rodar os notebooks no ambiente do google collab, todos os notebooks estão disponíveis no link abaixo: 
-    
-    https://drive.google.com/drive/folders/1viKDINkWtF624Y2ZMwAPtA5e-gu2EhgU?usp=sharing
+   Também é possível rodar os notebooks no ambiente do google collab, acessando o drive do PanGEIA:
+   
+<a href="https://drive.google.com/drive/folders/1viKDINkWtF624Y2ZMwAPtA5e-gu2EhgU?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"></a> 
+<!---
+your comment goes here
+and here
+-->

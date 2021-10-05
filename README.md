@@ -61,3 +61,4 @@ Com o seu ambiente virtual ativado, dentro da pasta base:
    
 <a href="https://drive.google.com/drive/folders/1viKDINkWtF624Y2ZMwAPtA5e-gu2EhgU?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"></a> 
 
+

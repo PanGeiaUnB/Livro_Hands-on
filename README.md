@@ -10,7 +10,7 @@
 
 <div align="center">
     <h3>O grupo panGEIA</h3>
-    <img height="300" width="500" src="docs/assets/Pangeia_logo.png"></img>
+    <img height="500" width="500" src="https://github.com/PanGeiaUnB/Documentos/blob/main/Logos/Logo_fundoBranco.png?raw=true"></img>
 </div>
 
 <br>

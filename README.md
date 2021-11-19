@@ -2,9 +2,9 @@
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
 ![License](https://img.shields.io/badge/Code%20License-MIT-green.svg)
 
-# "Introdução Hands-on de algoritmos de Deep Learning e Deep Reinforcement Learning com Python e Pytorch"
+# "Introdução Hands-on de algoritmos de DL e DRL com Python e Pytorch"
 
-O Livro introduz os principais algoritmos e técnicas de Deep Learning, combinando os conceitos teóricos à aplicação prática em Python. O objetivo é simplificar a utilização dessas técnicas, permitindo que o leitor com pouca experiência consiga entendê-las e utilizá-las de maneira rápida. O livro conta com 5 lições que explicam o funcionamento de cada algoritmo utilizado e fornece o código para execução imediata, sugerindo pequenas alterações no código para aumentar o entendimento da técnica.
+O Livro "Introdução Hands-on de algoritmos de Deep Learning e Deep Reinforcement Learning com Python e Pytorch" introduz os principais algoritmos e técnicas de Deep Learning, combinando os conceitos teóricos à aplicação prática em Python. O objetivo é simplificar a utilização dessas técnicas, permitindo que o leitor com pouca experiência consiga entendê-las e utilizá-las de maneira rápida. O livro conta com 5 lições que explicam o funcionamento de cada algoritmo utilizado e fornece o código para execução imediata, sugerindo pequenas alterações no código para aumentar o entendimento da técnica.
 
 Os temas abordados nas lições são:
 
